@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "rex_eyes_diffuse.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

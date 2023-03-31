@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "rex_body_displacement.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
